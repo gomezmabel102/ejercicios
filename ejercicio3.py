@@ -1,0 +1,11 @@
+cadena = "Te quiero solo como amigo"
+print("los dos primeros caracteres ")
+print(cadena[0:2])
+print("los tres ultimos caracteres ")
+print(cadena[-3:])
+print("de forma inversa ")
+print(cadena[::-1])
+print("cada 2 caracteres ")
+print(cadena[::2])
+print("Cadena recta e inversa ")
+print(cadena+""+cadena[::-1])
